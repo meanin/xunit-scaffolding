@@ -1,4 +1,4 @@
-#Scaffolds for XUnit Test Projects or Classes
+# Scaffolds for XUnit Test Projects or Classes
 
 Add the opportunity to speed up your work with TDD. Create whole test project with XUnit nuget package pre-installed, or just add new class where first method is set with AAA comments included.
 
