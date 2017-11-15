@@ -31,8 +31,10 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 [Dirs]
 Name: "{app}\Templates\ProjectTemplates\Visual C#"; Permissions: users-modify   
 Name: "{app}\Templates\ItemTemplates\Visual C#"; Permissions: users-modify
+Name: "{app}\Code Snippets\Visual C#\My Code Snippets"; Permissions: users-modify
 
 [Files]
 Source: ".\Xunit Test Class.zip"; DestDir: "{app}\Templates\ItemTemplates\Visual C#"; Flags: ignoreversion
 Source: ".\Xunit Test Project.zip"; DestDir: "{app}\Templates\ProjectTemplates\Visual C#"; Flags: ignoreversion
+Source: ".\xunittestmethod.snippet"; DestDir: "{app}\Code Snippets\Visual C#\My Code Snippets"; Flags: ignoreversion
 
